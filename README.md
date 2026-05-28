@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ostap Girniak
+# 👋 Hi, I’m Ostap Hirniak
 
 - 🎓 I’m a student at Lviv Polytechnic National University
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/ostap-girniak-0976b1287) | panzenoviy@gmail.com
